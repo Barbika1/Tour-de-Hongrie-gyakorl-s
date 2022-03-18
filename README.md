@@ -8,5 +8,5 @@
 
  **–Ezért kell gyakorolni!!**
  
- A teljes oldal képe:
+ ![A teljes oldal képe:](keszweb.jpeg)
  
